@@ -2620,10 +2620,10 @@ cachedir@^1.1.0:
   dependencies:
     os-homedir "^1.0.1"
 
-calidators@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/calidators/-/calidators-3.0.0.tgz#5d760cc68d37f0652cccbba406c5aaed279a6855"
-  integrity sha512-XzOciNeMXdyqhK+Xrh7JXlXdd7CjFQRjOERn8tJGFRHhe3uAOhkX1nzUpzrn/br7a+gR9R20t1unTtl3Qp2KeQ==
+calidators@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/calidators/-/calidators-3.0.2.tgz#7dd864df7642c646961e715fc872cf5fc371c430"
+  integrity sha512-7nyR07BASMge8oOIvharRAor+FJQFjTdUXik7nSBgpEpBEtIrghsjjNzfFVu22qDnXhFF9RUhYL8yq/NA5CYWQ==
   dependencies:
     invariant "^2.2.4"
     warning "^4.0.3"
