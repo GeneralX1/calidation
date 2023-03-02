@@ -60,7 +60,7 @@
     "dependencies": {
         "calidators": "^3.0.2",
         "invariant": "^2.2.4",
-        "prop-types": "^15.6.1"
+        "prop-types": "^15.8.1"
     },
     "jest": {
         "coverageDirectory": "./coverage/",
